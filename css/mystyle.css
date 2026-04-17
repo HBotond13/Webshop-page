@@ -1,0 +1,48 @@
+.card{
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.card img{
+    object-fit:contain;
+}
+
+.ar{
+    color: rgb(0, 0, 0);
+}
+
+.regi-ar{
+    text-decoration-line: line-through;
+    color: #380000;
+    margin-right: 5px;
+}
+
+.akcio{
+    position: static;
+    top: 10px;
+    left: 10px;
+    font-size: 14px;
+}
+
+.btn-info{
+    margin-top: 10px;
+    padding: 8px 20px;
+}
+
+.card p{
+    font-size: 18px;
+}
+
+.ar-akcio {
+    color: rgb(182, 0, 0);
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.hh1 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
